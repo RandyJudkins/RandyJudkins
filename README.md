@@ -1,5 +1,6 @@
 ## Hi there 👋
 Yes, I'm here.
+Just a student who struggling to acquire more knowledges. Love watching football matches.
 <!--
 **RandyJudkins/RandyJudkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
